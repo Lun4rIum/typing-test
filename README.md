@@ -1,3 +1,3 @@
 # typing-test
 
-Test your speed at typing ! You just need to open main.py ! Good race :p
+Testez votre vitesse de frappe avec ce projet ! Ouvrez simplement main.py. Bonne chane :p
